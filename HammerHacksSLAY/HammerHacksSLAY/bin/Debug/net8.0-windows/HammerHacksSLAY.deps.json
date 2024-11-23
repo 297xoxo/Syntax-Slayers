@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HammerHacksSLAY/1.0.0": {
+        "runtime": {
+          "HammerHacksSLAY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HammerHacksSLAY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
